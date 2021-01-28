@@ -1,6 +1,6 @@
 # rails101
 
-看板项目（在线预览）
+看板项目（[在线预览](https://rails5-101.herokuapp.com)）
 
 ## 项目环境
 
@@ -35,13 +35,14 @@ rails server
 
 [注册heroku账号](https://signup.heroku.com/)
 
->chanweiyan001@gmail.com
+>`chanweiyan001@gmail.com`
 
 ```bash
 heroku login -i
 heroku create
 git push heroku main:master
 heroku run rake db:migrate
+heroku open
 ```
 
 ## 参考链接
