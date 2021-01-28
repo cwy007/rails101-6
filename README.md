@@ -1,24 +1,7 @@
-# README
+# rails101
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+看板项目
 
-Things you may want to cover:
+## 参考链接
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [rvm](https://ruby-china.org/wiki/rvm-guide)
